@@ -1,0 +1,13 @@
+.pricing-header {
+    background-color: #0f3783;
+    color: #fff;
+    padding-top: 129px;
+    padding-bottom: 110px;
+}
+.card-header {
+    background-color: gray;
+    color: #fff;  
+}
+.box-shadow:hover {
+    transform: scale(1.2);
+  }
